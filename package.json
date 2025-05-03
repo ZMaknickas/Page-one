@@ -1,0 +1,16 @@
+{
+  "name": "klinika",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "scripts": {
+     "klinika": "dead-server  --host=localhost --port=5580",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "webz (https://github/ZMaknickas)",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
